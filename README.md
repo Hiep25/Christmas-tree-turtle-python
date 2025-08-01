@@ -34,7 +34,8 @@
 
  📸 Hình ảnh minh họa
 
-*Bạn có thể thêm hình ảnh hoặc GIF mô phỏng kết quả tại đây để dễ hình dung hơn.*
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/338fe5de-817e-471d-a5aa-bd932ed5ecab" />
+
 
  
 
