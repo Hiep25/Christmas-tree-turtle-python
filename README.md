@@ -50,11 +50,8 @@
 
 ![Kết quả Cây Thông Noel](<img width="957" height="889" alt="image" src="https://github.com/user-attachments/assets/14c2ade8-016a-4620-bc4d-e2215c989bc4" />
 )
+<img width="957" height="889" alt="image" src="https://github.com/user-attachments/assets/0c1740ee-ffab-4ead-a0b1-076e9f3318ea" />
 
 ---
 
 
-
-
-Bạn có thể gửi ảnh cho mình (nếu cần mình nhúng sẵn vào `README.md`) hoặc mình có thể giúp bạn tạo ảnh đầu ra từ `noel.py`. Bạn muốn mình hỗ trợ không?
-```
