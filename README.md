@@ -33,7 +33,8 @@
    ```
 
  📸 Hình ảnh minh họa
-![Kết quả Cây Thông Noel](https://github.com/user-attachments/assets/338fe5de-817e-471d-a5aa-bd932ed5ecab)
+![Kết quả Cây Thông Noel](<img width="1074" height="783" alt="image" src="https://github.com/user-attachments/assets/a21e300a-6061-4c21-bbfd-6704b3b77798" />
+)
 
 
  
