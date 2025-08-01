@@ -1,22 +1,31 @@
-# 🎄 Vẽ Cây Thông Noel bằng Python Turtle
+````markdown
+ 🎄 Vẽ Cây Thông Noel bằng Python Turtle
 
 Đây là một dự án sử dụng thư viện `turtle` của Python để vẽ một cây thông Noel sinh động với hiệu ứng tuyết rơi, đèn trang trí và lời chúc Giáng Sinh.
 
- ✨ Tính năng
+---
+
+ ✨ Tính năng nổi bật
 
 - Vẽ cây thông Noel bằng thuật toán đệ quy
 - Trang trí đèn nhiều màu ngẫu nhiên trên cây
-- Hiệu ứng tuyết rơi lấp lánh
-- Hiển thị lời chúc: “Merry Christmas 🎅”
+- Hiệu ứng tuyết rơi sinh động
+- Hiển thị lời chúc: “Merry Christmas 🎅” bằng font nghệ thuật
+
+---
 
  📂 Tập tin
 
-- `noel.py`: Tập tin chính để chạy và hiển thị cây thông Noel.
+- `noel.py`: Tập tin Python chính vẽ toàn bộ cảnh Giáng Sinh.
 
- 🛠️ Yêu cầu
+---
+
+ 🛠️ Yêu cầu môi trường
 
 - Python 3.x  
-- Thư viện `turtle` (được tích hợp sẵn trong Python)
+- Thư viện `turtle` (đi kèm sẵn với Python)
+
+---
 
  ▶️ Cách chạy chương trình
 
@@ -32,15 +41,20 @@
    python noel.py
    ```
 
- 📸 Hình ảnh minh họa
-![Kết quả Cây Thông Noel](<img width="1074" height="783" alt="image" src="https://github.com/user-attachments/assets/a21e300a-6061-4c21-bbfd-6704b3b77798" />
+---
+
+ 📸 Kết quả minh họa
+
+ Ảnh kết quả:
+
+
+![Kết quả Cây Thông Noel](<img width="957" height="889" alt="image" src="https://github.com/user-attachments/assets/14c2ade8-016a-4620-bc4d-e2215c989bc4" />
 )
 
-
- 
-
+---
 
 
 
 
-
+Bạn có thể gửi ảnh cho mình (nếu cần mình nhúng sẵn vào `README.md`) hoặc mình có thể giúp bạn tạo ảnh đầu ra từ `noel.py`. Bạn muốn mình hỗ trợ không?
+```
